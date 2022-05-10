@@ -1,0 +1,17 @@
+{
+    
+    "serviceWorkerFileConfig": {
+        "path": "firebase-messaging-sw.js"
+    },
+    "notificationPrompt": true,
+    "notificationPromptConfig": {
+        "icon": "https://www.resulticks.com/images/icons/c-cloud.svg",
+        "ctaAlignment": "right",
+        "notNowCtaEnable": true,
+        "notNowCtaText": "No thanks",
+        "allowCtaText": "Allow",
+        "title": "Welcome to Resulticks !",
+        "content": "Get notifications on Next-level Omnichannel Marketing and Customer Engagement"
+    },
+    "securePushNotification": "a13eyJwdXNoQ29uZmlnIjp7ImFwaUtleSI6IkFJemFTeUFaNTJ2d2kwSnlRaTktSThyc2J2ZWZkYnVac1V4YVc1dyIsImF1dGhEb21haW4iOiJvbmVsaW5lc2RrdGVzdC5maXJlYmFzZWFwcC5jb20iLCJwcm9qZWN0SWQiOiJvbmVsaW5lc2RrdGVzdCIsInN0b3JhZ2VCdWNrZXQiOiJvbmVsaW5lc2RrdGVzdC5hcHBzcG90LmNvbSIsIm1lc3NhZ2luZ1NlbmRlcklkIjoiNTM3NTIzMzA4ODA3IiwiYXBwSWQiOiIxOjUzNzUyMzMwODgwNzp3ZWI6NTY1NDRmNmM0ZDNhNWFlMWI2MWRhMiIsIm1lYXN1cmVtZW50SWQiOiJHLTU2UzlWNzdGVFYifSwicHVzaEhlYWRlcktleSI6IkFBQUFmU2JpeVFjOkFQQTkxYkVrTkY3SXBXdnI2Y2JTUWk0R09RbFU2TWhWQTF2TE45UlJMOXN2cU5ERDhYNGZRcFNUcTB4clRmcFVqa1RKSEpoRkxxZFM3aGdoR2dYQmpkQm9TWnN3bEtlekJ0YmI0VHNIeDhtVEZ1SnJTM2UxMzdIcS1IMmdNdDV6TWtuQjNSeHJ3V05iIn0="
+}
