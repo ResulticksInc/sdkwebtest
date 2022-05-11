@@ -1,1 +1,1 @@
-importScripts('https://sdk.resu.io/Scripts/push-sw.js');
+importScripts('https://teamsdk.resulticks.net/Scripts/push-sw.js');
