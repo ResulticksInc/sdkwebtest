@@ -1,7 +1,8 @@
 {
     
+    "customFileBase":"https://teamsdk.resulticks.net",
     "serviceWorkerFileConfig": {
-        "path": "firebase-messaging-sw.js"
+        "path": "sdkwebtest/firebase-messaging-sw.js"
     },
     "notificationPrompt": true,
     "notificationPromptConfig": {
